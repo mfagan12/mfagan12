@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Michael Fagan
+
+I am a data scientist working on computer vision at VectorNorth. My academic background is mostly mathematics, with an MSc in Mathematics from George Mason University and a BSc in Physics and Mathematics (dual major) from Virginia Tech. Before VectorNorth, I was a machine learning scientist at BlackHorse Solutions, where I worked on projects like:
+- Confidence estimation for neural network predictions
+- Implementing contrastive loss functions for self-supervised pretraining
+- Containerization and deployment of models
+- A full-stack internal research project where I worked on everything from literature review and data pipelining, to modeling, analysis, and presentation of results
+
+I work heavily with deep learning, but I have experience with more classical models as well. I love broadening my horizons with new models, techniques, and tools, and I'm always looking to learn something new either for or alongside my current projects.
+
+If you're interested in me and my work, reach out to me at mfagan12@gmail.com!
 
 <!--
 **mfagan12/mfagan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
