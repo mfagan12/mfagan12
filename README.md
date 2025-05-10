@@ -1,6 +1,6 @@
 ### Hi, I'm Michael Fagan
 
-I am a data scientist working on computer vision at VectorNorth. My academic background is mostly mathematics, with an MSc in Mathematics from George Mason University and a BSc in Physics and Mathematics (dual major) from Virginia Tech. Before VectorNorth, I was a machine learning scientist at BlackHorse Solutions, where I worked on projects like:
+I am a data scientist working at VectorNorth, working primarily in computer vision. My academic background is mostly mathematics, with an MSc in Mathematics from George Mason University and a dual major BSc in Physics and Mathematics from Virginia Tech. Before VectorNorth, I was a machine learning scientist at BlackHorse Solutions, where I worked on projects like:
 - Confidence estimation for neural network predictions
 - Implementing contrastive loss functions for self-supervised pretraining
 - Containerization and deployment of models
